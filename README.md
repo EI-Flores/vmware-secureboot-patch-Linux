@@ -58,7 +58,7 @@ Reboot your system, select `Enroll MOK`, and confirm using the password you just
 
 ## 👨‍💻 Author
 
-John Flower – [GitHub](https://github.com/johnflower)
+John Flower – [GitHub](https://github.com/EI-Flores)
 
 ## 📄 License
 
@@ -127,7 +127,7 @@ Reinicia el equipo, elige `Enroll MOK`, acepta con la contraseña que configuras
 
 ## 👨‍💻 Autor
 
-John Flower – [GitHub](https://github.com/johnflower)
+John Flower – [GitHub](https://github.com/EI-Flores)
 
 ## 📄 Licencia
 
@@ -196,7 +196,7 @@ Starte dein System neu, wähle `Enroll MOK` und bestätige mit dem erstellten Pa
 
 ## 👨‍💻 Autor
 
-John Flower – [GitHub](https://github.com/johnflower)
+John Flower – [GitHub](https://github.com/EI-Flores)
 
 ## 📄 Lizenz
 
