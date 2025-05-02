@@ -33,7 +33,7 @@ Reboot your system, select `Enroll MOK`, and confirm using the password you just
 1. Download or clone this repository:
 
     ```bash
-    git clone https://github.com/EI-Flores/vmware-secureboot-helper.git
+    git clone https://github.com/EI-Flores/vmware-secureboot-patch-Linux.git
     cd vmware-secureboot-helper
     ```
 
