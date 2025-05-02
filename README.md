@@ -34,7 +34,7 @@ Reboot your system, select `Enroll MOK`, and confirm using the password you just
 
     ```bash
     git clone https://github.com/EI-Flores/vmware-secureboot-patch-Linux.git
-    cd vmware-secureboot-helper
+    cd vmware-secureboot-patch-Linux/
     ```
 
 2. Make the script executable:
