@@ -102,7 +102,7 @@ Reinicia el equipo, elige `Enroll MOK`, acepta con la contraseña que configuras
 1. Descarga o clona este repositorio:
 
     ```bash
-    git clone https://github.com/youruser/vmware-secureboot-helper.git
+    git clone https://github.com/EI-Flores/vmware-secureboot-patch-Linux.git
     cd vmware-secureboot-helper
     ```
 
@@ -171,7 +171,7 @@ Starte dein System neu, wähle `Enroll MOK` und bestätige mit dem erstellten Pa
 1. Lade das Repository herunter oder klone es:
 
     ```bash
-    git clone https://github.com/youruser/vmware-secureboot-helper.git
+    git clone https://github.com/EI-Flores/vmware-secureboot-patch-Linux.git
     cd vmware-secureboot-helper
     ```
 
